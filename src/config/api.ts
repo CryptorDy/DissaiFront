@@ -1,0 +1,1 @@
+export const API_URL = 'https://cryptordy-aidiscussion-9bff.twc1.net/api';
